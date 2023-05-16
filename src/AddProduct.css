@@ -1,0 +1,177 @@
+/* .form-horizontal {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .control-label {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .form-control {
+    font-size: 16px;
+  }
+  
+  .help-block {
+    font-size: 12px;
+    color: #999;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0062cc;
+  }
+  
+   */
+
+
+
+/**** CSS BY CHATGPT*/
+
+
+  /* .form-horizontal {
+  padding: 30px;
+  margin: 30px auto;
+  border: 1px solid #141404;
+  border-radius: 5px;
+  width: 50%; */
+   /* background: linear-gradient(27deg, rgb(246, 246, 248) 0%, rgb(245, 230, 57) 35%);  */
+  /* background-color: #9cf;
+  color: #000; */
+/* }  */
+/* 
+.form-horizontal legend {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.control-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input-md {
+  height: 40px;
+  font-size: 18px;
+  color:#dfdc08;
+  background-color:#f0f40a;
+}
+
+select.form-control {
+  height: 40px;
+  font-size: 18px;
+}
+
+.help-block {
+  font-size: 14px;
+  color: #999;
+}
+
+
+
+.btn-primary {
+  background-color: #020306;
+  color: #fff;
+  font-size: 18px;
+  width: 100px;
+  height: 50px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #a93630;
+}
+
+.help-block {
+  font-weight: bold;
+  color: black;
+  height: 50px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+select.form-control input-md {
+  height: 40px;
+  font-size: 18px;
+} */ 
+
+
+
+
+/* Form Style */
+/* Used CHATGPT BUT LOOKING GOOD */
+.form-horizontal {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+legend {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label.control-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="number"],
+select.form-control {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+span.help-block {
+  display: block;
+  font-size: 12px;
+  color: #999;
+  margin-top: 5px;
+}
+
+button.btn-primary {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button.btn-primary:hover {
+  background-color: #0069d9;
+}
